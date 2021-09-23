@@ -42,9 +42,4 @@ public class PrintStackTraceDemo
         throw new IOException();
     }
 }
-// why am unable to push
-// hello
-//hi
-// this directory is new, not initialized with git
-//brb
-//sure
+
