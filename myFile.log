@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-21T12:04:40.491665Z</date>
+  <millis>1632225880491</millis>
+  <nanos>665000</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2021-09-21T12:04:40.559500Z</date>
+  <millis>1632225880559</millis>
+  <nanos>500000</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2021-09-21T12:04:40.560570Z</date>
+  <millis>1632225880560</millis>
+  <nanos>570000</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-21T12:05:25.898597Z</date>
+  <millis>1632225925898</millis>
+  <nanos>597000</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2021-09-21T12:05:25.956739Z</date>
+  <millis>1632225925956</millis>
+  <nanos>739000</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-21T12:06:22.501609Z</date>
+  <millis>1632225982501</millis>
+  <nanos>609000</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>PrintStackTraceDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2021-09-21T12:06:22.544680Z</date>
+  <millis>1632225982544</millis>
+  <nanos>680000</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>PrintStackTraceDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-21T12:08:43.048319Z</date>
+  <millis>1632226123048</millis>
+  <nanos>319000</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>PrintStackTraceDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message {}java.io.IOException</message>
+</record>
+<record>
+  <date>2021-09-21T12:08:43.089232Z</date>
+  <millis>1632226123089</millis>
+  <nanos>232000</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>PrintStackTraceDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+</log>
