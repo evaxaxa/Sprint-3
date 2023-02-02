@@ -5,7 +5,7 @@ import org.apache.commons.lang3.exception.ExceptionUtils;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 
-public class PrintStackTraceDemo
+public class PrintStackTraceDemo extends RuntimeException
 {
     public static void main(String[] args) throws IOException
     {
